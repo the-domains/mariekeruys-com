@@ -1,0 +1,23 @@
+name: mariekeruys.com
+favicon: null
+layout_spectrum: 0.7416141566354781
+typography_spectrum: 0.3208770405035466
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.15860869968309999
+  lightness: 0.41781493765302
+  saturation: 0.40955629968084395
+  rhythmicContrast: 0.08049962064251304
+purpose: []
